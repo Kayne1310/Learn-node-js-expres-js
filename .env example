@@ -1,0 +1,10 @@
+HTTPPORT=6633
+HOSTNAME='127.0.0.1'
+NODE_ENV=development
+
+
+
+HOST='127.0.0.1'
+USER='root'
+DATABASE='sdlc'
+PORT=3306
